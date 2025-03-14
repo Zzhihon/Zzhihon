@@ -5,6 +5,10 @@
  [![](https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=white)](https://tatakal.com/feed/)
  [![](https://img.shields.io/badge/Email-4493f8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bt1q@tatakal.com)
 
+
+ [![](https://github-readme-activity-graph.vercel.app/graph?username=Zzhihon&theme=light)](https://github.com/Zzhihon)
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2014%20mins-blue)
 
