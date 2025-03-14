@@ -1,12 +1,11 @@
 
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzhihon&show_icons=true&theme=transparent)](https://github.com/Zzhihon)
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzhihon&show_icons=true&theme=purple)](https://github.com/Zzhihon)
  
- [![](https://img.shields.io/badge/website-4493f8?style=for-the-badge&logo=About.me&logoColor=white)](https://tatakal.com/)
- [![](https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=white)](https://tatakal.com/feed/)
- [![](https://img.shields.io/badge/Email-4493f8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bt1q@tatakal.com)
+ [![](https://img.shields.io/badge/website-4493f8?style=for-the-badge&logo=About.me&logoColor=purple)](https://tatakal.com/)
+ [![](https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=purple)](https://tatakal.com/feed/)
+ [![](https://img.shields.io/badge/Email-4493f8?style=for-the-badge&logo=gmail&logoColor=purple)](mailto:bt1q@tatakal.com)
 
 
- [![](https://github-readme-activity-graph.vercel.app/graph?username=Zzhihon&theme=light)](https://github.com/Zzhihon)
 
 
 <!--START_SECTION:waka-->
