@@ -8,7 +8,7 @@
 ## Tech Stack 💻
 
 <div align="center">
-![Golang](https://img.shields.io/badge/Golang-03C9A9?style=flat-square&logo=python&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-03C9A9?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-03C9A9?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-03C9A9?style=flat-square&logo=nginx&logoColor=white)
