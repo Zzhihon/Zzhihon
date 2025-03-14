@@ -1,5 +1,6 @@
-
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzhihon&show_icons=true&theme=purple)](https://github.com/Zzhihon)
+## Basic
+ 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzhihon&show_icons=true&theme=purple)](https://github.com/Zzhihon)
  
  [![](https://img.shields.io/badge/website-4493f8?style=for-the-badge&logo=About.me&logoColor=purple)](https://tatakal.com/)
  [![](https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=purple)](https://tatakal.com/feed/)
@@ -7,13 +8,9 @@
 
 ## Tech Stack 💻
 
-<div align="center">
-(https://img.shields.io/badge/GO-03C9A9?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-03C9A9?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-03C9A9?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-03C9A9?style=flat-square&logo=nginx&logoColor=white)
-
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,html,css,javascript,bash,java,vue,go,nodejs,cpp" />
+</a>
 
 
 <!--START_SECTION:waka-->
