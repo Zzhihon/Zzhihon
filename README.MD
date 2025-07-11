@@ -17,7 +17,7 @@
 ## Work Track
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2017%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -54,5 +54,5 @@ Windows                  1 hr 35 mins        ███████████�
 ```
 
 
- Last Updated on 10/07/2025 18:54:12 UTC
+ Last Updated on 11/07/2025 18:53:54 UTC
 <!--END_SECTION:waka-->
