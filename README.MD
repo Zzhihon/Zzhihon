@@ -17,8 +17,6 @@
 ## Work Track
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -48,5 +46,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2025 18:59:10 UTC
+ Last Updated on 30/07/2025 18:58:06 UTC
 <!--END_SECTION:waka-->
