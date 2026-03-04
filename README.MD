@@ -17,15 +17,13 @@
 ## Work Track
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2010%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                620 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-🌆 Daytime                25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-🌃 Evening                768 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-🌙 Night                  1252 commits        ████████████░░░░░░░░░░░░░   46.98 % 
+🌞 Morning                2744 commits        ████████░░░░░░░░░░░░░░░░░   31.54 % 
+🌆 Daytime                148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+🌃 Evening                1839 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+🌙 Night                  3969 commits        ███████████░░░░░░░░░░░░░░   45.62 % 
 ```
 
 
@@ -35,22 +33,26 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Go                       1 hr 19 mins        ███████████████████████░░   93.48 % 
-PHP                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Go                       8 hrs 37 mins       ██████████████░░░░░░░░░░░   56.62 % 
+YAML                     3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        ████████████████████████░   95.57 % 
-Cursor                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+VS Code                  15 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-go-pc-api                44 mins             █████████████░░░░░░░░░░░░   52.33 % 
-sso                      34 mins             ██████████░░░░░░░░░░░░░░░   41.15 % 
-api.aicoin.pc            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+go-apt-v2                5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
+go-sso-v2                2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+go-core-lib              1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+go-si-v2                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+golang-task              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Mac                      15 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/08/2025 18:55:45 UTC
+ Last Updated on 04/03/2026 02:45:08 UTC
 <!--END_SECTION:waka-->
