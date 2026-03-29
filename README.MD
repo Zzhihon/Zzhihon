@@ -84,10 +84,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2301 commits        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌞 Morning                2310 commits        ████████░░░░░░░░░░░░░░░░░   30.19 % 
 🌆 Daytime                149 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-🌃 Evening                1847 commits        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-🌙 Night                  3332 commits        ███████████░░░░░░░░░░░░░░   43.68 % 
+🌃 Evening                1850 commits        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+🌙 Night                  3343 commits        ███████████░░░░░░░░░░░░░░   43.69 % 
 ```
 
 
@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 3 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
-Python                   2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Swift                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-YAML                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Markdown                 3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
+Python                   2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Swift                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-knowledge-graph          4 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
-go-loom                  1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-ScreenBriefDemo-dist     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-k8s-abdn                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-go-payment               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+knowledge-graph          4 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
+go-loom                  1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+ScreenBriefDemo-dist     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+go-payment               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+k8s-abdn                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 19:10:24 UTC
+ Last Updated on 29/03/2026 19:13:23 UTC
 <!--END_SECTION:waka-->
 
 ---
