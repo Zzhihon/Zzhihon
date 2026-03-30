@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
-Python                   2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Swift                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Markdown                 3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
+Python                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Swift                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-knowledge-graph          4 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
-go-loom                  1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-ScreenBriefDemo-dist     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-go-payment               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-k8s-abdn                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+knowledge-graph          4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.89 % 
+go-loom                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+ScreenBriefDemo-dist     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+go-payment               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+k8s-abdn                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 💻 Operating System: 
-Mac                      9 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/03/2026 19:13:23 UTC
+ Last Updated on 30/03/2026 19:37:55 UTC
 <!--END_SECTION:waka-->
 
 ---
