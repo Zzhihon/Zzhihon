@@ -84,10 +84,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3160 commits        ████████░░░░░░░░░░░░░░░░░   32.91 % 
-🌆 Daytime                183 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-🌃 Evening                2262 commits        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-🌙 Night                  3996 commits        ██████████░░░░░░░░░░░░░░░   41.62 % 
+🌞 Morning                3297 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
+🌆 Daytime                183 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌃 Evening                2320 commits        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+🌙 Night                  4090 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
 ```
 
 
@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.18 % 
-Markdown                 3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Go                       3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Other                    4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.65 % 
+Markdown                 3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Go                       3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algorithm-handbook       3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-knowledge-graph          3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Unknown Project          2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-yongyou                  2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-golang-task              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+algorithm-handbook       3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+knowledge-graph          2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+yongyou                  2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Unknown Project          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+frontend                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 💻 Operating System: 
-Mac                      16 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2026 19:53:37 UTC
+ Last Updated on 16/04/2026 19:49:53 UTC
 <!--END_SECTION:waka-->
 
 ---
