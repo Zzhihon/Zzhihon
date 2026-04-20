@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
-Go                       2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-Markdown                 1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Go                       2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.43 % 
+Other                    2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+Markdown                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algorithm-handbook       2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
-knowledge-graph          2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-k8s-abdn                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-nuwa-skill               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-go-cluster               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+algorithm-handbook       2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
+knowledge-graph          1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+k8s-abdn                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+nuwa-skill               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+go-cluster               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 
 💻 Operating System: 
-Mac                      7 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 19:27:57 UTC
+ Last Updated on 20/04/2026 19:44:49 UTC
 <!--END_SECTION:waka-->
 
 ---
