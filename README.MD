@@ -84,10 +84,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3711 commits        █████████░░░░░░░░░░░░░░░░   34.36 % 
-🌆 Daytime                190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-🌃 Evening                2510 commits        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-🌙 Night                  4389 commits        ██████████░░░░░░░░░░░░░░░   40.64 % 
+🌞 Morning                3737 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌆 Daytime                190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+🌃 Evening                2522 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+🌙 Night                  4407 commits        ██████████░░░░░░░░░░░░░░░   40.60 % 
 ```
 
 
@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Go                       2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.43 % 
-Other                    2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
-Markdown                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Go                       2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Other                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+YAML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algorithm-handbook       2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
-knowledge-graph          1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-k8s-abdn                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-nuwa-skill               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-go-cluster               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+k8s-abdn                 2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
+algorithm-handbook       2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
+nuwa-skill               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+go-cluster               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+knowledge-graph          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 💻 Operating System: 
-Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 19:44:49 UTC
+ Last Updated on 21/04/2026 19:50:38 UTC
 <!--END_SECTION:waka-->
 
 ---
