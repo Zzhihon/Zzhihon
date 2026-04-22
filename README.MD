@@ -79,15 +79,15 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-727%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3737 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌆 Daytime                190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-🌃 Evening                2522 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌙 Night                  4407 commits        ██████████░░░░░░░░░░░░░░░   40.60 % 
+🌞 Morning                2700 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌆 Daytime                179 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+🌃 Evening                2041 commits        ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+🌙 Night                  3654 commits        ███████████░░░░░░░░░░░░░░   42.62 % 
 ```
 
 
@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Go                       2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Other                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-YAML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Markdown                 2 hrs 19 mins       █████████████░░░░░░░░░░░░   53.69 % 
+YAML                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Other                    55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-k8s-abdn                 2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
-algorithm-handbook       2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
-nuwa-skill               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-go-cluster               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-knowledge-graph          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+k8s-abdn                 2 hrs 37 mins       ███████████████░░░░░░░░░░   60.70 % 
+nuwa-skill               48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+go-cluster               37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+knowledge-graph          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+go-apt-v2                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Mac                      8 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 19:50:38 UTC
+ Last Updated on 22/04/2026 19:51:36 UTC
 <!--END_SECTION:waka-->
 
 ---
