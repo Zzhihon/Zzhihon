@@ -79,7 +79,7 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2026%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
-TypeScript               2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Python                   2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Other                    3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+Python                   2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+TypeScript               2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Markdown                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yongyou                  6 hrs 45 mins       ████████████████░░░░░░░░░   63.28 % 
-k8s-abdn                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-portfolio                54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-tatakai                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-knowledge-graph          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+yongyou                  6 hrs 45 mins       ███████████████░░░░░░░░░░   61.17 % 
+k8s-abdn                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+portfolio                54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+tatakai                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+knowledge-graph          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Mac                      10 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/05/2026 19:52:31 UTC
+ Last Updated on 02/05/2026 19:40:04 UTC
 <!--END_SECTION:waka-->
 
 ---
