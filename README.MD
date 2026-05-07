@@ -79,15 +79,15 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2832 commits        ████████░░░░░░░░░░░░░░░░░   31.72 % 
-🌆 Daytime                195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-🌃 Evening                2114 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-🌙 Night                  3786 commits        ███████████░░░░░░░░░░░░░░   42.41 % 
+🌞 Morning                2878 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌆 Daytime                195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+🌃 Evening                2135 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+🌙 Night                  3816 commits        ███████████░░░░░░░░░░░░░░   42.29 % 
 ```
 
 
@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
-TypeScript               2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Python                   1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   37.85 % 
+Other                    1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yongyou                  6 hrs 41 mins       ███████████████████░░░░░░   76.75 % 
-k8s-abdn                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-go-sso-v2                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-algorithm-handbook       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-nuwa-skill               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+yongyou                  3 hrs 10 mins       ███████████████░░░░░░░░░░   60.90 % 
+k8s-abdn                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+go-sso-v2                34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+algorithm-handbook       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+nuwa-skill               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Mac                      8 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2026 20:14:08 UTC
+ Last Updated on 07/05/2026 20:06:47 UTC
 <!--END_SECTION:waka-->
 
 ---
