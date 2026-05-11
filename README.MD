@@ -84,10 +84,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2964 commits        ████████░░░░░░░░░░░░░░░░░   32.21 % 
-🌆 Daytime                195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-🌃 Evening                2172 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-🌙 Night                  3870 commits        ███████████░░░░░░░░░░░░░░   42.06 % 
+🌞 Morning                2994 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
+🌆 Daytime                195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+🌃 Evening                2181 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+🌙 Night                  3892 commits        ███████████░░░░░░░░░░░░░░   42.02 % 
 ```
 
 
@@ -97,28 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   39.27 % 
-Other                    1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-TypeScript               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Python                   1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+Other                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+JavaScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yongyou                  3 hrs 29 mins       █████████████████░░░░░░░░   69.53 % 
-k8s-abdn                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-go-sso-v2                34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-algorithm-handbook       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-knowledge-graph          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+yongyou                  2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.63 % 
+go-cluster               2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+k8s-abdn                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+go-sso-v2                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+algorithm-handbook       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 💻 Operating System: 
-Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2026 19:44:18 UTC
+ Last Updated on 11/05/2026 20:21:59 UTC
 <!--END_SECTION:waka-->
 
 ---
