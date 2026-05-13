@@ -79,46 +79,10 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2028%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2994 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌆 Daytime                195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-🌃 Evening                2181 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-🌙 Night                  3892 commits        ███████████░░░░░░░░░░░░░░   42.02 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2010%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Python                   1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Other                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-JavaScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-yongyou                  2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.63 % 
-go-cluster               2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
-k8s-abdn                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-go-sso-v2                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-algorithm-handbook       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-
-💻 Operating System: 
-Mac                      6 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 12/05/2026 20:20:10 UTC
+ Last Updated on 13/05/2026 20:22:57 UTC
 <!--END_SECTION:waka-->
 
 ---
