@@ -79,47 +79,8 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2013%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3059 commits        ████████░░░░░░░░░░░░░░░░░   32.35 % 
-🌆 Daytime                197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-🌃 Evening                2241 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-🌙 Night                  3960 commits        ██████████░░░░░░░░░░░░░░░   41.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Markdown                 7 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
-Go                       4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Other                    2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-YAML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-
-🔥 Editors: 
-Unknown Editor           17 hrs 3 mins       ████████████████████░░░░░   80.10 % 
-VS Code                  4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-
-🐱‍💻 Projects: 
-go-pc-api                6 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
-k8s-abdn                 5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-knowledge-graph          2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-go-sso-v2                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-go-cluster               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-
-💻 Operating System: 
-Mac                      21 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 20:20:27 UTC
+ Last Updated on 15/05/2026 20:07:08 UTC
 <!--END_SECTION:waka-->
 
 ---
