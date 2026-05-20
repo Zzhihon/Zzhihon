@@ -79,10 +79,47 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2042%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3105 commits        ████████░░░░░░░░░░░░░░░░░   32.42 % 
+🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+🌃 Evening                2268 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+🌙 Night                  4004 commits        ██████████░░░░░░░░░░░░░░░   41.80 % 
+```
 
 
- Last Updated on 19/05/2026 20:20:07 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Markdown                 5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+YAML                     5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Other                    3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Bash                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Go                       2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 24 mins      ████████████████████░░░░░   78.76 % 
+Claude Code              4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+
+🐱‍💻 Projects: 
+k8s-abdn                 15 hrs 14 mins      ██████████████████░░░░░░░   73.21 % 
+go-pc-api                3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+knowledge-graph          56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+golang-task              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+go-si-v2                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+
+💻 Operating System: 
+Mac                      20 hrs 49 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 20/05/2026 20:38:39 UTC
 <!--END_SECTION:waka-->
 
 ---
