@@ -84,10 +84,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3105 commits        ████████░░░░░░░░░░░░░░░░░   32.42 % 
+🌞 Morning                3107 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
 🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-🌃 Evening                2268 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-🌙 Night                  4004 commits        ██████████░░░░░░░░░░░░░░░   41.80 % 
+🌃 Evening                2274 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+🌙 Night                  4004 commits        ██████████░░░░░░░░░░░░░░░   41.77 % 
 ```
 
 
@@ -97,29 +97,28 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-YAML                     5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Other                    3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Bash                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Go                       2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+YAML                     3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Bash                     2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Other                    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Go                       1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 24 mins      ████████████████████░░░░░   78.76 % 
-Claude Code              4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+VS Code                  12 hrs 10 mins      ████████████████████████░   95.99 % 
+Claude Code              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-k8s-abdn                 15 hrs 14 mins      ██████████████████░░░░░░░   73.21 % 
-go-pc-api                3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-knowledge-graph          56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-golang-task              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-go-si-v2                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+k8s-abdn                 8 hrs 59 mins       ██████████████████░░░░░░░   70.90 % 
+go-pc-api                2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+knowledge-graph          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+golang-task              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Mac                      20 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 20:38:39 UTC
+ Last Updated on 21/05/2026 20:25:10 UTC
 <!--END_SECTION:waka-->
 
 ---
