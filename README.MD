@@ -79,8 +79,6 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2042%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -97,28 +95,27 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Bash                     2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Other                    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Go                       1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+YAML                     3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.52 % 
+Bash                     2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Other                    1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 10 mins      ████████████████████████░   95.99 % 
-Claude Code              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+VS Code                  8 hrs 56 mins       ████████████████████████░   96.97 % 
+Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🐱‍💻 Projects: 
-k8s-abdn                 8 hrs 59 mins       ██████████████████░░░░░░░   70.90 % 
-go-pc-api                2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-knowledge-graph          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-golang-task              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+k8s-abdn                 8 hrs 4 mins        ██████████████████████░░░   87.48 % 
+go-pc-api                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+golang-task              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 💻 Operating System: 
-Mac                      12 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/05/2026 20:25:10 UTC
+ Last Updated on 22/05/2026 20:24:29 UTC
 <!--END_SECTION:waka-->
 
 ---
