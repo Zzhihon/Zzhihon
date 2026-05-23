@@ -95,27 +95,26 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Bash                     2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
-Other                    1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Bash                     2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
+YAML                     2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       ████████████████████████░   96.97 % 
-Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+VS Code                  6 hrs 56 mins       ████████████████████████░   96.13 % 
+Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-k8s-abdn                 8 hrs 4 mins        ██████████████████████░░░   87.48 % 
-go-pc-api                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-golang-task              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+k8s-abdn                 7 hrs 8 mins        █████████████████████████   98.97 % 
+golang-task              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-Mac                      9 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2026 20:24:29 UTC
+ Last Updated on 23/05/2026 19:49:40 UTC
 <!--END_SECTION:waka-->
 
 ---
