@@ -79,6 +79,8 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2042%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -95,26 +97,23 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Bash                     2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-YAML                     2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Bash                     1 hr 15 mins        ████████████████░░░░░░░░░   62.02 % 
+Other                    39 mins             ████████░░░░░░░░░░░░░░░░░   32.17 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 56 mins       ████████████████████████░   96.13 % 
-Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+VS Code                  1 hr 46 mins        ███████████████████████░░   91.69 % 
+Claude Code              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🐱‍💻 Projects: 
-k8s-abdn                 7 hrs 8 mins        █████████████████████████   98.97 % 
-golang-task              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+k8s-abdn                 1 hr 56 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2026 19:49:40 UTC
+ Last Updated on 24/05/2026 19:50:30 UTC
 <!--END_SECTION:waka-->
 
 ---
