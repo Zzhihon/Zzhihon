@@ -86,8 +86,8 @@
 ```text
 🌞 Morning                3107 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
 🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-🌃 Evening                2274 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-🌙 Night                  4004 commits        ██████████░░░░░░░░░░░░░░░   41.77 % 
+🌃 Evening                2276 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+🌙 Night                  4004 commits        ██████████░░░░░░░░░░░░░░░   41.76 % 
 ```
 
 
@@ -97,23 +97,20 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Bash                     1 hr 15 mins        ████████████████░░░░░░░░░   62.02 % 
-Other                    39 mins             ████████░░░░░░░░░░░░░░░░░   32.17 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Other                    39 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        ███████████████████████░░   91.69 % 
-Claude Code              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-k8s-abdn                 1 hr 56 mins        █████████████████████████   100.00 % 
+k8s-abdn                 33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 19:50:30 UTC
+ Last Updated on 25/05/2026 20:14:34 UTC
 <!--END_SECTION:waka-->
 
 ---
