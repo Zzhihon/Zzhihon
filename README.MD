@@ -79,15 +79,15 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2022%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3107 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+🌞 Morning                3107 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
 🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-🌃 Evening                2276 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-🌙 Night                  4004 commits        ██████████░░░░░░░░░░░░░░░   41.76 % 
+🌃 Evening                2276 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌙 Night                  4007 commits        ██████████░░░░░░░░░░░░░░░   41.78 % 
 ```
 
 
@@ -97,20 +97,27 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 44 mins        ████████████████░░░░░░░░░   63.79 % 
+Other                    57 mins             █████████░░░░░░░░░░░░░░░░   35.26 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 41 mins       █████████████████████████   98.24 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SDM                      1 hr 1 min          █████████░░░░░░░░░░░░░░░░   37.47 % 
+data-mining              48 mins             ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+invitation               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+claude-code-hub          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+yongyou                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 19:54:30 UTC
+ Last Updated on 31/05/2026 19:53:22 UTC
 <!--END_SECTION:waka-->
 
 ---
