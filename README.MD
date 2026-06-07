@@ -79,8 +79,6 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2059%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -97,30 +95,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
-Go                       3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Markdown                 1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Swift                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.13 % 
+Go                       3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.83 % 
+Markdown                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Swift                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       ████████████████░░░░░░░░░   62.52 % 
-Codex CLI                2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Claude Code              1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+VS Code                  5 hrs 16 mins       ███████████████░░░░░░░░░░   58.12 % 
+Codex CLI                2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Claude Code              1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
 
 🐱‍💻 Projects: 
-go-pc-api                4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.28 % 
-yongyou                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-knowledge-graph          1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-SDM                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-k8s-abdn                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+go-pc-api                4 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.24 % 
+yongyou                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+knowledge-graph          1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+k8s-abdn                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+claude-code-hub-plus     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-Mac                      10 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2026 19:58:53 UTC
+ Last Updated on 07/06/2026 19:59:24 UTC
 <!--END_SECTION:waka-->
 
 ---
