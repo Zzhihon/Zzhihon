@@ -97,30 +97,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.86 % 
-Python                   1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Go                       1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Swift                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Python                   1 hr 18 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
+Markdown                 1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.83 % 
+Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Swift                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        ███████████░░░░░░░░░░░░░░   44.60 % 
-Codex CLI                1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.83 % 
-Claude Code              1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Claude Code              1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.19 % 
+VS Code                  1 hr 1 min          █████████░░░░░░░░░░░░░░░░   34.83 % 
+Codex CLI                49 mins             ███████░░░░░░░░░░░░░░░░░░   27.98 % 
 
 🐱‍💻 Projects: 
-go-pc-api                2 hrs 24 mins       ██████████████░░░░░░░░░░░   54.32 % 
-knowledge-graph          42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-claude-code-hub-plus     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-go-core-lib              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-invitation               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+go-pc-api                1 hr 41 mins        ██████████████░░░░░░░░░░░   57.73 % 
+claude-code-hub-plus     35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+invitation               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+knowledge-graph          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+k8s-abdn                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Mac                      4 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 21:12:11 UTC
+ Last Updated on 11/06/2026 21:05:44 UTC
 <!--END_SECTION:waka-->
 
 ---
