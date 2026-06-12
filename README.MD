@@ -84,9 +84,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3107 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌞 Morning                3109 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
 🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-🌃 Evening                2277 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+🌃 Evening                2277 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 🌙 Night                  4007 commits        ██████████░░░░░░░░░░░░░░░   41.77 % 
 ```
 
@@ -97,30 +97,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   1 hr 18 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
-Markdown                 1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.83 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Swift                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Python                   1 hr 18 mins        █████████████░░░░░░░░░░░░   52.16 % 
+Markdown                 39 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Swift                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Claude Code              1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.19 % 
-VS Code                  1 hr 1 min          █████████░░░░░░░░░░░░░░░░   34.83 % 
-Codex CLI                49 mins             ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Claude Code              1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.63 % 
+VS Code                  45 mins             ████████░░░░░░░░░░░░░░░░░   30.40 % 
+Codex CLI                39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
 
 🐱‍💻 Projects: 
-go-pc-api                1 hr 41 mins        ██████████████░░░░░░░░░░░   57.73 % 
-claude-code-hub-plus     35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-invitation               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-knowledge-graph          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-k8s-abdn                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+go-pc-api                1 hr 41 mins        █████████████████░░░░░░░░   67.71 % 
+claude-code-hub-plus     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+invitation               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+k8s-abdn                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+ScreenBriefDemo-dist     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/06/2026 21:05:44 UTC
+ Last Updated on 12/06/2026 20:40:16 UTC
 <!--END_SECTION:waka-->
 
 ---
