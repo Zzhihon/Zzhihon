@@ -79,15 +79,15 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-889%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3131 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-🌃 Evening                2290 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-🌙 Night                  4024 commits        ██████████░░░░░░░░░░░░░░░   41.72 % 
+🌞 Morning                3129 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
+🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+🌃 Evening                2278 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+🌙 Night                  4013 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
 ```
 
 
@@ -97,28 +97,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 4 mins         █████████████░░░░░░░░░░░░   53.56 % 
-Python                   35 mins             ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Swift                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Other                    3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.26 % 
+TypeScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Go                       1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 44 mins        ███████████████████████░░   92.87 % 
-VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Codex CLI                7 hrs 54 mins       ███████████████████████░░   90.26 % 
+VS Code                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-yongyou                  1 hr 11 mins        ████████████████░░░░░░░░░   63.72 % 
-claude-code-hub-plus     22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-invitation               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-ScreenBriefDemo-dist     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+yongyou                  5 hrs 5 mins        ███████████████░░░░░░░░░░   58.10 % 
+claude-code-hub-plus     2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+claude-code-hub          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Github-Projects          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+ScreenBriefDemo-dist     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 21:39:27 UTC
+ Last Updated on 16/06/2026 21:31:53 UTC
 <!--END_SECTION:waka-->
 
 ---
