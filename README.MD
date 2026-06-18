@@ -79,7 +79,7 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -97,30 +97,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
-TypeScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Go                       1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Other                    3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
+TypeScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Go                       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 54 mins       ███████████████████████░░   91.21 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Codex CLI                8 hrs 30 mins       ███████████████████████░░   91.27 % 
+VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-yongyou                  5 hrs 5 mins        ███████████████░░░░░░░░░░   58.72 % 
-claude-code-hub-plus     2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-claude-code-hub          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Github-Projects          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Ann-Projects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+yongyou                  5 hrs 5 mins        ██████████████░░░░░░░░░░░   54.54 % 
+claude-code-hub-plus     2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.65 % 
+claude-code-hub          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Github-Projects          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Ann-Projects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Mac                      8 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 20:39:15 UTC
+ Last Updated on 18/06/2026 21:07:55 UTC
 <!--END_SECTION:waka-->
 
 ---
