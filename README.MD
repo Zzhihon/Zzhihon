@@ -81,8 +81,45 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2019%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 19/06/2026 20:20:04 UTC
+```text
+🌞 Morning                3131 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
+🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+🌃 Evening                2278 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+🌙 Night                  4018 commits        ██████████░░░░░░░░░░░░░░░   41.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Go                       1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Other                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+YAML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Python                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+TypeScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+
+🔥 Editors: 
+Codex CLI                5 hrs 14 mins       ██████████████████████░░░   88.65 % 
+VS Code                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+
+🐱‍💻 Projects: 
+yongyou                  3 hrs 13 mins       ██████████████░░░░░░░░░░░   54.53 % 
+claude-code-hub-plus     2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.10 % 
+Github-Projects          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Ann-Projects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+
+💻 Operating System: 
+Mac                      5 hrs 55 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 20/06/2026 20:08:28 UTC
 <!--END_SECTION:waka-->
 
 ---
