@@ -97,29 +97,29 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Go                       1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Other                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-YAML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Python                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-TypeScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Go                       1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   34.73 % 
+YAML                     58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Bash                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Python                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 14 mins       ██████████████████████░░░   88.65 % 
-VS Code                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Codex CLI                3 hrs 31 mins       █████████████████████░░░░   84.02 % 
+VS Code                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🐱‍💻 Projects: 
-yongyou                  3 hrs 13 mins       ██████████████░░░░░░░░░░░   54.53 % 
-claude-code-hub-plus     2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.10 % 
-Github-Projects          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Ann-Projects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+claude-code-hub-plus     2 hrs 22 mins       ██████████████░░░░░░░░░░░   56.46 % 
+yongyou                  1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.79 % 
+Github-Projects          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Ann-Projects             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      5 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 20:08:28 UTC
+ Last Updated on 21/06/2026 20:17:48 UTC
 <!--END_SECTION:waka-->
 
 ---
