@@ -84,10 +84,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3256 commits        ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌆 Daytime                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-🌃 Evening                2319 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-🌙 Night                  4152 commits        ██████████░░░░░░░░░░░░░░░   41.82 % 
+🌞 Morning                3425 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌆 Daytime                201 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+🌃 Evening                2430 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌙 Night                  4377 commits        ██████████░░░░░░░░░░░░░░░   41.95 % 
 ```
 
 
@@ -97,22 +97,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               1 hr 3 mins         █████████████████████░░░░   82.92 % 
-Go                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Go                       9 hrs 58 mins       ███████████████░░░░░░░░░░   58.12 % 
+TypeScript               2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Python                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+Claude Code              10 hrs 5 mins       ███████████████░░░░░░░░░░   58.78 % 
+VS Code                  5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
+Codex CLI                1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🐱‍💻 Projects: 
-claude-code-hub-plus     1 hr 16 mins        █████████████████████████   100.00 % 
+claude-code-hub-plus     15 hrs 6 mins       ██████████████████████░░░   88.02 % 
+yongyou                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+cchp-gitops              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+knowledge-graph          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+CLIProxyAPI              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
+Mac                      17 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/06/2026 19:59:21 UTC
+ Last Updated on 29/06/2026 20:32:12 UTC
 <!--END_SECTION:waka-->
 
 ---
