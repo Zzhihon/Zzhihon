@@ -84,10 +84,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5863 commits        ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌆 Daytime                225 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-🌃 Evening                3142 commits        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-🌙 Night                  5842 commits        ██████████░░░░░░░░░░░░░░░   38.76 % 
+🌞 Morning                6645 commits        ██████████░░░░░░░░░░░░░░░   40.62 % 
+🌆 Daytime                240 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+🌃 Evening                3294 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+🌙 Night                  6178 commits        █████████░░░░░░░░░░░░░░░░   37.77 % 
 ```
 
 
@@ -97,30 +97,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Go                       7 hrs 31 mins       █████████████░░░░░░░░░░░░   52.35 % 
-YAML                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Python                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Go                       15 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.45 % 
+Markdown                 8 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+YAML                     6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Python                   5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Terraform                1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 48 mins       █████████████████░░░░░░░░   68.33 % 
-Codex CLI                3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Claude Code              32 hrs 35 mins      █████████████████████░░░░   82.69 % 
+Codex CLI                6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-claude-code-hub-plus     11 hrs 22 mins      ████████████████████░░░░░   79.23 % 
-yongyou                  1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-knowledge-graph          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-daily_stock_analysis     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+claude-code-hub-plus     20 hrs 40 mins      █████████████░░░░░░░░░░░░   52.47 % 
+yongyou                  7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+cchp-gitops              2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+k8s-abdn                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+knowledge-graph          1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Mac                      14 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 19:58:20 UTC
+ Last Updated on 06/07/2026 20:33:05 UTC
 <!--END_SECTION:waka-->
 
 ---
