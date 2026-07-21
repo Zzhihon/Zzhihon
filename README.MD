@@ -79,15 +79,15 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2018%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14945 commits       ████████████░░░░░░░░░░░░░   48.01 % 
+🌞 Morning                14943 commits       ████████████░░░░░░░░░░░░░   48.02 % 
 🌆 Daytime                908 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 🌃 Evening                5076 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-🌙 Night                  10198 commits       ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌙 Night                  10189 commits       ████████░░░░░░░░░░░░░░░░░   32.75 % 
 ```
 
 
@@ -97,30 +97,30 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Go                       10 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Gnuplot                  7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Markdown                 5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Other                    4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-YAML                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Go                       9 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Gnuplot                  9 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Other                    4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+YAML                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 54 mins      ███████████████████░░░░░░   74.85 % 
-Claude Code              8 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Codex CLI                1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+VS Code                  31 hrs 13 mins      ████████████████████░░░░░   81.65 % 
+Claude Code              5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Codex CLI                1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🐱‍💻 Projects: 
-claude-code-hub-plus     14 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.39 % 
-b-base-pipeline-template 8 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-b-oos-orchestration-templ4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-TME-Project              3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-cchp-gitops              1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+claude-code-hub-plus     12 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   33.82 % 
+b-base-pipeline-template 10 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+b-oos-orchestration-templ4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+TME-Project              2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+f_zhiyu                  2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 💻 Operating System: 
-Mac                      37 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2026 20:25:41 UTC
+ Last Updated on 21/07/2026 20:17:36 UTC
 <!--END_SECTION:waka-->
 
 ---
