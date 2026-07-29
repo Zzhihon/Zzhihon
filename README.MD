@@ -79,6 +79,10 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%2013%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -95,56 +99,55 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Gnuplot                  5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Other                    4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Go                       4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Markdown                 3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Terraform                3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Gnuplot                  7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Other                    4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Go                       4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Terraform                3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Markdown                 3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 27 mins      ████████████████████░░░░░   79.87 % 
-Claude Code              6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+VS Code                  26 hrs 47 mins      ████████████████████░░░░░   78.73 % 
+Claude Code              7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
 
 🐱‍💻 Projects: 
-b-base-pipeline-template 6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-f_opd                    5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-iac_tf_tx                4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-TME-Project              2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-claude-code-hub-plus     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+b-base-pipeline-template 8 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+f_opd                    5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+iac_tf_tx                4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+b-oos-orchestration-templ3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+claude-code-hub-plus     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 💻 Operating System: 
-Mac                      31 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 21 mins (79.54%)
+⏱ AI Coding Time: 26 hrs 9 mins (76.92%)
 
-✍️ 10,098 lines written by AI, 611 lines written by hand (94.29% AI-written)
+✍️ 9,770 lines written by AI, 652 lines written by hand (93.74% AI-written)
 
-🔤 420,361,166 Input Tokens, 987,067 Output Tokens
+🔤 442,388,680 Input Tokens, 926,160 Output Tokens
 
-💵 $934.48 Estimated AI Cost This Week
+💵 $1059.16 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 361 AI Prompts
+🧠 37 AI Sessions, 371 AI Prompts
 
-Fable                    5,551 lines         ████████████████░░░░░░░░░   65.63 % 
-Glm                      2,093 lines         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Opus                     743 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-GPT                      71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Fable                    6,059 lines         ██████████████████░░░░░░░   72.72 % 
+Glm                      1,451 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Opus                     822 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.29% of written lines came from AI
-📄 Detailed Prompter — average 956 characters per prompt
+🤖 AI-Driven — 93.74% of written lines came from AI
+📄 Detailed Prompter — average 1,184 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 24.7% of changed lines were hand-edited
+🚀 High AI Trust — 25.79% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 20:20:08 UTC
+ Last Updated on 29/07/2026 20:11:30 UTC
 <!--END_SECTION:waka-->
 
 ---
