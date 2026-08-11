@@ -79,17 +79,17 @@
 > **Entry plug telemetry — real-time operational data**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-465%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-468%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21720 commits       █████████████░░░░░░░░░░░░   50.38 % 
+🌞 Morning                21750 commits       █████████████░░░░░░░░░░░░   50.38 % 
 🌆 Daytime                1403 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-🌃 Evening                6365 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-🌙 Night                  13627 commits       ████████░░░░░░░░░░░░░░░░░   31.61 % 
+🌃 Evening                6374 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+🌙 Night                  13648 commits       ████████░░░░░░░░░░░░░░░░░   31.61 % 
 ```
 
 
@@ -99,57 +99,57 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Gnuplot                  8 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Markdown                 7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Python                   5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Other                    4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-YAML                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Gnuplot                  9 hrs               ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+Python                   5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Other                    5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Go                       2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+YAML                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 41 mins      ███████████████░░░░░░░░░░   59.64 % 
-Claude Code              11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.57 % 
-Codex CLI                2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-OpenClaw                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+VS Code                  24 hrs 18 mins      ███████████████████░░░░░░   75.25 % 
+Claude Code              3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Codex CLI                2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+OpenClaw                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🐱‍💻 Projects: 
-b-base-pipeline-template 10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-claude-code-hub-plus     9 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-b-oos-orchestration-templ7 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-TME-Project_git          4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-yang                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+b-base-pipeline-template 10 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.01 % 
+b-oos-orchestration-templ7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+claude-code-hub-plus     5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+TME-Project_git          4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+yang                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Mac                      38 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      32 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 27 mins (90.59%)
+⏱ AI Coding Time: 28 hrs 14 mins (87.43%)
 
-✍️ 8,145 lines written by AI, 118 lines written by hand (98.57% AI-written)
+✍️ 6,566 lines written by AI, 106 lines written by hand (98.41% AI-written)
 
-🔤 1,061,188,589 Input Tokens, 2,876,384 Output Tokens
+🔤 886,439,313 Input Tokens, 2,577,520 Output Tokens
 
-💵 $3710.17 Estimated AI Cost This Week
+💵 $2207.26 Estimated AI Cost This Week
 
-🧠 150 AI Sessions, 415 AI Prompts
+🧠 156 AI Sessions, 393 AI Prompts
 
-GPT                      3,625 lines         ████████████░░░░░░░░░░░░░   48.47 % 
-Glm                      1,302 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Fable                    1,114 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Opus                     966 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-K                        461 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+GPT                      3,625 lines         ███████████████░░░░░░░░░░   61.53 % 
+Glm                      1,501 lines         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+K                        494 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Fable                    253 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+M                        11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.57% of written lines came from AI
-📚 Verbose Prompter — average 7,787 characters per prompt
+🤖 AI-Driven — 98.41% of written lines came from AI
+📚 Verbose Prompter — average 8,171 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.66% of changed lines were hand-edited
+🚀 High AI Trust — 14.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 19:54:52 UTC
+ Last Updated on 11/08/2026 19:59:05 UTC
 <!--END_SECTION:waka-->
 
 ---
