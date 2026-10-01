@@ -86,10 +86,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32283 commits       █████████████░░░░░░░░░░░░   52.03 % 
-🌆 Daytime                2194 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-🌃 Evening                8623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-🌙 Night                  18947 commits       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌞 Morning                32970 commits       █████████████░░░░░░░░░░░░   52.09 % 
+🌆 Daytime                2249 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+🌃 Evening                8769 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+🌙 Night                  19301 commits       ████████░░░░░░░░░░░░░░░░░   30.50 % 
 ```
 
 
@@ -99,56 +99,56 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    4 hrs 55 mins       ████████████░░░░░░░░░░░░░   46.35 % 
-Python                   3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Gnuplot                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+YAML                     56 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Other                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Gnuplot                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-Claude Code              2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Codex Vscode             2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-OpenClaw                 1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Codex CLI                56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Claude Code              2 hrs 4 mins        ████████████████░░░░░░░░░   63.80 % 
+VS Code                  40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Codex Vscode             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+OpenClaw                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-b-oos-orchestration-templ4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.56 % 
-cron                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-workspace                1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-TME-Project_git          1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-b-base-pipeline-template 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+b-oos-orchestration-templ1 hr 46 mins        ██████████████░░░░░░░░░░░   54.48 % 
+b-base-pipeline-template 37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+TME-Project_git          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+cron                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+workspace                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Mac                      10 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 48 mins (82.97%)
+⏱ AI Coding Time: 2 hrs 46 mins (85.2%)
 
-✍️ 965 lines written by AI, 93 lines written by hand (91.21% AI-written)
+✍️ 344 lines written by AI, 69 lines written by hand (83.29% AI-written)
 
-🔤 35,198,889 Input Tokens, 414,551 Output Tokens
+🔤 5,414,495 Input Tokens, 109,508 Output Tokens
 
-💵 $871.71 Estimated AI Cost This Week
+💵 $530.25 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 143 AI Prompts
+🧠 5 AI Sessions, 50 AI Prompts
 
-GPT                      883 lines           █████████████████░░░░░░░░   67.77 % 
-Opus                     420 lines           ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Opus                     358 lines           ███████████████░░░░░░░░░░   58.88 % 
+GPT                      250 lines           ██████████░░░░░░░░░░░░░░░   41.12 % 
 OpenClaw                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.21% of written lines came from AI
-📄 Detailed Prompter — average 1,087 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 20.53% of changed lines were hand-edited
+🤖 AI-Driven — 83.29% of written lines came from AI
+📄 Detailed Prompter — average 928 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 16.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 22:59:01 UTC
+ Last Updated on 01/10/2026 23:19:58 UTC
 <!--END_SECTION:waka-->
 
 ---
